@@ -1,0 +1,26 @@
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api news.csprojAssemblyReference.cache
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api_news.Form1.resources
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api_news.Properties.Resources.resources
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api news.csproj.GenerateResource.cache
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api news.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\bin\Debug\Api news.exe.config
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\bin\Debug\Api news.exe
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\bin\Debug\Api news.pdb
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api news.csproj.CopyComplete
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api news.exe
+C:\Users\Gleb\Desktop\WinForm\Api news\Api news\obj\Debug\Api news.pdb
+C:\Users\Gleb\Desktop\Api news\Api news\bin\Debug\Api news.exe.config
+C:\Users\Gleb\Desktop\Api news\Api news\bin\Debug\Api news.exe
+C:\Users\Gleb\Desktop\Api news\Api news\bin\Debug\Api news.pdb
+C:\Users\Gleb\Desktop\Api news\Api news\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gleb\Desktop\Api news\Api news\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api news.csprojAssemblyReference.cache
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api_news.Form1.resources
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api_news.Properties.Resources.resources
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api news.csproj.GenerateResource.cache
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api news.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api news.csproj.CopyComplete
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api news.exe
+C:\Users\Gleb\Desktop\Api news\Api news\obj\Debug\Api news.pdb
