@@ -1,0 +1,12 @@
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
